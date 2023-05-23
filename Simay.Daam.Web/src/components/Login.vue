@@ -10,7 +10,7 @@
       <label for="password" class="form-label">Password:</label>
       <input type="password" id="password" v-model="password" class="form-control">
     </div>
-    <button type="submit" class="btn btn-primary" style="background-color: #203557;">Login</button>
+    <button type="submit" class="btn btn-primary" style="background-color: #203557;">Loginn</button>
   </form>
  </div>
 
